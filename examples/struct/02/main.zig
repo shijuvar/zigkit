@@ -4,7 +4,7 @@ pub fn main() void {
     const student1 = Student{
         .id = 10001,
         .name = "Agnes Maria",
-        .class = 1,
+        .grade = 1,
     };
     student1.getDetails();
 
